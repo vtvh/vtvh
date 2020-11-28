@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- I'm Vũ Trần Việt Hải
+- 😄 Pronouns: Hải (Hai/Hi its okay).
+- 👯 I’m looking to collaborate on Shell improvement.
+- 📫 How to reach me: Telegram: https://t.me/vtvh1 | Messenger: https://m.me/vtvh1
+- ⚡ Fun fact: Shell tweaker, Meditator.
 <!--
 **vtvh/vtvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
